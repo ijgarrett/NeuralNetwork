@@ -68,7 +68,7 @@ The goal is to classify samples into two classes using a neural network implemen
 
 ## Timeline
 
-8/31/25  
+8/10/25 - 8/14/25
 
 ## Future Improvements
 
