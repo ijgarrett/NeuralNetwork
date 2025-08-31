@@ -1,4 +1,4 @@
-# Neural Network from Scratch for Binary Classification
+# Neural Network
 
 This is an improved, more usable version of my NeuralNetworkFromScratch that can be used in other scenarios like sentiment analysis. This project implements a fully connected neural network from scratch using only base Python and NumPy to perform classification on datasets. I completed this project in August 2025, building a complete pipeline including layer definitions, forward and backward propagation, loss computation, and parameter optimization with the Adam optimizer.
 
